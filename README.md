@@ -32,4 +32,4 @@ lead_classifier.py
 ```
 
 ## Author
-amenakhatunautomation
+amena-khatun-automation
